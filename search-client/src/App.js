@@ -406,6 +406,7 @@ function App() {
                       <Card centered fluid>
                         <Card.Content>
                           <Card.Header>{paragraph.book}</Card.Header>
+                          {paragraph.chapter ? <Card.Meta>{paragraph.chapter}</Card.Meta> : null}
                           <Card.Description>
                             {paragraph.text.split('\n').map(chunk => (
                               <React.Fragment><div dangerouslySetInnerHTML={{ __html: chunk }} /><br></br></React.Fragment>

@@ -1,0 +1,1011 @@
+{
+ "The Philosopher's Stone": [
+  {
+   "chapter": 1,
+   "title": "The Boy Who Lived",
+   "line": 0
+  },
+  {
+   "chapter": 2,
+   "title": "The Vanishing Glass",
+   "line": 114
+  },
+  {
+   "chapter": 3,
+   "title": "The Letters From No One",
+   "line": 212
+  },
+  {
+   "chapter": 4,
+   "title": "The Keeper of the Keys",
+   "line": 325
+  },
+  {
+   "chapter": 5,
+   "title": "Diagon Alley",
+   "line": 457
+  },
+  {
+   "chapter": 6,
+   "title": "The Journey From Platform Nine and Three-Quarters",
+   "line": 713
+  },
+  {
+   "chapter": 7,
+   "title": "The Sorting Hat",
+   "line": 995
+  },
+  {
+   "chapter": 8,
+   "title": "The Potions Master",
+   "line": 1137
+  },
+  {
+   "chapter": 9,
+   "title": "The Midnight Duel",
+   "line": 1219
+  },
+  {
+   "chapter": 10,
+   "title": "Halloween",
+   "line": 1427
+  },
+  {
+   "chapter": 11,
+   "title": "Quidditch",
+   "line": 1586
+  },
+  {
+   "chapter": 12,
+   "title": "The Mirror of Erised",
+   "line": 1717
+  },
+  {
+   "chapter": 13,
+   "title": "Nicolas Flamel",
+   "line": 1917
+  },
+  {
+   "chapter": 14,
+   "title": "Norbert the Norwegian Ridgeback",
+   "line": 2036
+  },
+  {
+   "chapter": 15,
+   "title": "The Forbidden Forest",
+   "line": 2175
+  },
+  {
+   "chapter": 16,
+   "title": "Through the Trapdoor",
+   "line": 2357
+  },
+  {
+   "chapter": 17,
+   "title": "The Man with Two Faces",
+   "line": 2655
+  }
+ ],
+ "The Chamber of Secrets": [
+  {
+   "chapter": 1,
+   "title": "The Worst Birthday",
+   "line": 0
+  },
+  {
+   "chapter": 2,
+   "title": "Dobby's Warning",
+   "line": 93
+  },
+  {
+   "chapter": 3,
+   "title": "The Burrow",
+   "line": 211
+  },
+  {
+   "chapter": 4,
+   "title": "At Flourish and Blotts",
+   "line": 390
+  },
+  {
+   "chapter": 5,
+   "title": "The Whomping Willow",
+   "line": 568
+  },
+  {
+   "chapter": 6,
+   "title": "Gilderoy Lockhart",
+   "line": 757
+  },
+  {
+   "chapter": 7,
+   "title": "Mudbloods and Murmurs",
+   "line": 896
+  },
+  {
+   "chapter": 8,
+   "title": "The Deathday Party",
+   "line": 1071
+  },
+  {
+   "chapter": 9,
+   "title": "The Writing on the Wall",
+   "line": 1232
+  },
+  {
+   "chapter": 10,
+   "title": "The Rogue Bludger",
+   "line": 1445
+  },
+  {
+   "chapter": 11,
+   "title": "The Dueling Club",
+   "line": 1626
+  },
+  {
+   "chapter": 12,
+   "title": "The Polyjuice Potion",
+   "line": 1815
+  },
+  {
+   "chapter": 13,
+   "title": "The Very Secret Diary",
+   "line": 2019
+  },
+  {
+   "chapter": 14,
+   "title": "Cornelius Fudge",
+   "line": 2224
+  },
+  {
+   "chapter": 15,
+   "title": "Aragog",
+   "line": 2368
+  },
+  {
+   "chapter": 16,
+   "title": "The Chamber of Secrets",
+   "line": 2529
+  },
+  {
+   "chapter": 17,
+   "title": "The Heir of Slytherin",
+   "line": 2768
+  },
+  {
+   "chapter": 18,
+   "title": "Dobby's Reward",
+   "line": 2934
+  }
+ ],
+ "The Prisoner of Azkaban": [
+  {
+   "chapter": 1,
+   "title": "Owl Post",
+   "line": 0
+  },
+  {
+   "chapter": 2,
+   "title": "Aunt Marge's Big Mistake",
+   "line": 77
+  },
+  {
+   "chapter": 3,
+   "title": "The Knight Bus",
+   "line": 207
+  },
+  {
+   "chapter": 4,
+   "title": "The Leaky Cauldron",
+   "line": 375
+  },
+  {
+   "chapter": 5,
+   "title": "The Dementor",
+   "line": 553
+  },
+  {
+   "chapter": 6,
+   "title": "Talons and Tea Leaves",
+   "line": 822
+  },
+  {
+   "chapter": 7,
+   "title": "The Boggart in the Wardrobe",
+   "line": 1081
+  },
+  {
+   "chapter": 8,
+   "title": "Flight of the Fat Lady",
+   "line": 1262
+  },
+  {
+   "chapter": 9,
+   "title": "Grim Defeat",
+   "line": 1477
+  },
+  {
+   "chapter": 10,
+   "title": "The Marauder's Map",
+   "line": 1685
+  },
+  {
+   "chapter": 11,
+   "title": "The Firebolt",
+   "line": 1921
+  },
+  {
+   "chapter": 12,
+   "title": "The Patronus",
+   "line": 2135
+  },
+  {
+   "chapter": 13,
+   "title": "Gryffindor Versus Ravenclaw",
+   "line": 2314
+  },
+  {
+   "chapter": 14,
+   "title": "Snape's Grudge",
+   "line": 2459
+  },
+  {
+   "chapter": 15,
+   "title": "The Quidditch Final",
+   "line": 2680
+  },
+  {
+   "chapter": 16,
+   "title": "Professor Trelawney's Prediction",
+   "line": 2853
+  },
+  {
+   "chapter": 17,
+   "title": "Cat, Rat, and Dog",
+   "line": 3024
+  },
+  {
+   "chapter": 18,
+   "title": "Moony, Wormtail, Padfoot, and Prongs",
+   "line": 3196
+  },
+  {
+   "chapter": 19,
+   "title": "The Servant of Lord Voldemort",
+   "line": 3257
+  },
+  {
+   "chapter": 20,
+   "title": "The Dementor's Kiss",
+   "line": 3444
+  },
+  {
+   "chapter": 21,
+   "title": "Hermione's Secret",
+   "line": 3508
+  },
+  {
+   "chapter": 22,
+   "title": "Owl Post Again",
+   "line": 3837
+  }
+ ],
+ "The Goblet of Fire": [
+  {
+   "chapter": 1,
+   "title": "The Riddle House",
+   "line": 0
+  },
+  {
+   "chapter": 2,
+   "title": "The Scar",
+   "line": 104
+  },
+  {
+   "chapter": 3,
+   "title": "The Invitation",
+   "line": 145
+  },
+  {
+   "chapter": 4,
+   "title": "Back to the Burrow",
+   "line": 223
+  },
+  {
+   "chapter": 5,
+   "title": "Weasleys' Wizard Wheezes",
+   "line": 319
+  },
+  {
+   "chapter": 6,
+   "title": "The Portkey",
+   "line": 435
+  },
+  {
+   "chapter": 7,
+   "title": "Bagman and Crouch",
+   "line": 525
+  },
+  {
+   "chapter": 8,
+   "title": "The Quidditch World Cup",
+   "line": 689
+  },
+  {
+   "chapter": 9,
+   "title": "The Dark Mark",
+   "line": 840
+  },
+  {
+   "chapter": 10,
+   "title": "Mayhem at the Ministry",
+   "line": 1109
+  },
+  {
+   "chapter": 11,
+   "title": "Aboard the Hogwarts Express",
+   "line": 1225
+  },
+  {
+   "chapter": 12,
+   "title": "The Triwizard Tournament",
+   "line": 1344
+  },
+  {
+   "chapter": 13,
+   "title": "Mad-Eye Moody",
+   "line": 1505
+  },
+  {
+   "chapter": 14,
+   "title": "The Unforgivable Curses",
+   "line": 1655
+  },
+  {
+   "chapter": 15,
+   "title": "Beauxbatons and Durmstrang",
+   "line": 1833
+  },
+  {
+   "chapter": 16,
+   "title": "The Goblet of Fire",
+   "line": 1979
+  },
+  {
+   "chapter": 17,
+   "title": "The Four Champions",
+   "line": 2181
+  },
+  {
+   "chapter": 18,
+   "title": "The Weighing of the Wands",
+   "line": 2323
+  },
+  {
+   "chapter": 19,
+   "title": "The Hungarian Horntail",
+   "line": 2518
+  },
+  {
+   "chapter": 20,
+   "title": "The First Task",
+   "line": 2695
+  },
+  {
+   "chapter": 21,
+   "title": "The House-Elf Liberation Front",
+   "line": 2902
+  },
+  {
+   "chapter": 22,
+   "title": "The Unexpected Task",
+   "line": 3093
+  },
+  {
+   "chapter": 23,
+   "title": "The Yule Ball",
+   "line": 3281
+  },
+  {
+   "chapter": 24,
+   "title": "Rita Skeeter's Scoop",
+   "line": 3536
+  },
+  {
+   "chapter": 25,
+   "title": "The Egg and the Eye",
+   "line": 3738
+  },
+  {
+   "chapter": 26,
+   "title": "The Second Task",
+   "line": 3909
+  },
+  {
+   "chapter": 27,
+   "title": "Padfoot Returns",
+   "line": 4127
+  },
+  {
+   "chapter": 28,
+   "title": "The Madness of Mr Crouch",
+   "line": 4339
+  },
+  {
+   "chapter": 29,
+   "title": "The Dream",
+   "line": 4621
+  },
+  {
+   "chapter": 30,
+   "title": "The Pensieve",
+   "line": 4786
+  },
+  {
+   "chapter": 31,
+   "title": "The Third Task",
+   "line": 4989
+  },
+  {
+   "chapter": 32,
+   "title": "Flesh, Blood, and Bone",
+   "line": 5248
+  },
+  {
+   "chapter": 33,
+   "title": "The Death Eaters",
+   "line": 5300
+  },
+  {
+   "chapter": 34,
+   "title": "Priori Incantatem",
+   "line": 5410
+  },
+  {
+   "chapter": 35,
+   "title": "Veritaserum",
+   "line": 5469
+  },
+  {
+   "chapter": 36,
+   "title": "The Parting of the Ways",
+   "line": 5643
+  },
+  {
+   "chapter": 37,
+   "title": "The Beginning",
+   "line": 5853
+  }
+ ],
+ "The Order of the Phoenix": [
+  {
+   "chapter": 1,
+   "title": "Dudley Demented",
+   "line": 0
+  },
+  {
+   "chapter": 2,
+   "title": "A Peck of Owls",
+   "line": 163
+  },
+  {
+   "chapter": 3,
+   "title": "The Advance Guard",
+   "line": 395
+  },
+  {
+   "chapter": 4,
+   "title": "Number Twelve, Grimmauld Place",
+   "line": 574
+  },
+  {
+   "chapter": 5,
+   "title": "The Order of the Phoenix",
+   "line": 799
+  },
+  {
+   "chapter": 6,
+   "title": "The Noble and Most Ancient House of Black",
+   "line": 1014
+  },
+  {
+   "chapter": 7,
+   "title": "The Ministry of Magic",
+   "line": 1236
+  },
+  {
+   "chapter": 8,
+   "title": "The Hearing",
+   "line": 1389
+  },
+  {
+   "chapter": 9,
+   "title": "The Woes of Mrs. Weasley",
+   "line": 1541
+  },
+  {
+   "chapter": 10,
+   "title": "Luna Lovegood",
+   "line": 1844
+  },
+  {
+   "chapter": 11,
+   "title": "The Sorting Hat's New Song",
+   "line": 2055
+  },
+  {
+   "chapter": 12,
+   "title": "Professor Umbridge",
+   "line": 2235
+  },
+  {
+   "chapter": 13,
+   "title": "Detention with Dolores",
+   "line": 2562
+  },
+  {
+   "chapter": 14,
+   "title": "Percy and Padfoot",
+   "line": 2848
+  },
+  {
+   "chapter": 15,
+   "title": "The Hogwarts High Inquisitor",
+   "line": 3124
+  },
+  {
+   "chapter": 16,
+   "title": "In the Hog's Head",
+   "line": 3371
+  },
+  {
+   "chapter": 17,
+   "title": "Educational Decree Number Twenty-Four",
+   "line": 3574
+  },
+  {
+   "chapter": 18,
+   "title": "Dumbledore's Army",
+   "line": 3829
+  },
+  {
+   "chapter": 19,
+   "title": "The Lion and the Serpent",
+   "line": 4094
+  },
+  {
+   "chapter": 20,
+   "title": "Hagrid's Tale",
+   "line": 4284
+  },
+  {
+   "chapter": 21,
+   "title": "The Eye of the Snake",
+   "line": 4538
+  },
+  {
+   "chapter": 22,
+   "title": "St. Mungo's Hospital for Magical Maladies and Injuries",
+   "line": 4789
+  },
+  {
+   "chapter": 23,
+   "title": "Christmas on the Closed Ward",
+   "line": 5016
+  },
+  {
+   "chapter": 24,
+   "title": "Occlumency",
+   "line": 5235
+  },
+  {
+   "chapter": 25,
+   "title": "The Beetle at Bay",
+   "line": 5516
+  },
+  {
+   "chapter": 26,
+   "title": "Seen and Unforeseen",
+   "line": 5756
+  },
+  {
+   "chapter": 27,
+   "title": "The Centaur and the Sneak",
+   "line": 6008
+  },
+  {
+   "chapter": 28,
+   "title": "Snape's Worst Memory",
+   "line": 6269
+  },
+  {
+   "chapter": 29,
+   "title": "Career Advice",
+   "line": 6550
+  },
+  {
+   "chapter": 30,
+   "title": "Grawp",
+   "line": 6804
+  },
+  {
+   "chapter": 31,
+   "title": "O.W.L.s",
+   "line": 7059
+  },
+  {
+   "chapter": 32,
+   "title": "Out of the Fire",
+   "line": 7271
+  },
+  {
+   "chapter": 33,
+   "title": "Fight and Flight",
+   "line": 7499
+  },
+  {
+   "chapter": 34,
+   "title": "The Department of Mysteries",
+   "line": 7632
+  },
+  {
+   "chapter": 35,
+   "title": "Beyond the Veil",
+   "line": 7804
+  },
+  {
+   "chapter": 36,
+   "title": "The Only One He Ever Feared",
+   "line": 8064
+  },
+  {
+   "chapter": 37,
+   "title": "The Lost Prophecy",
+   "line": 8166
+  },
+  {
+   "chapter": 38,
+   "title": "The Second War Begins",
+   "line": 8382
+  }
+ ],
+ "The Half Blood Prince": [
+  {
+   "chapter": 1,
+   "title": "The Other Minister",
+   "line": 0
+  },
+  {
+   "chapter": 2,
+   "title": "Spinner's End",
+   "line": 134
+  },
+  {
+   "chapter": 3,
+   "title": "Will and Won't",
+   "line": 313
+  },
+  {
+   "chapter": 4,
+   "title": "Horace Slughorn",
+   "line": 437
+  },
+  {
+   "chapter": 5,
+   "title": "An Excess of Phlegm",
+   "line": 671
+  },
+  {
+   "chapter": 6,
+   "title": "Draco's Detour",
+   "line": 920
+  },
+  {
+   "chapter": 7,
+   "title": "The Slug Club",
+   "line": 1138
+  },
+  {
+   "chapter": 8,
+   "title": "Snape Victorious",
+   "line": 1373
+  },
+  {
+   "chapter": 9,
+   "title": "The Half-Blood Prince",
+   "line": 1511
+  },
+  {
+   "chapter": 10,
+   "title": "The Hour of Gaunt",
+   "line": 1701
+  },
+  {
+   "chapter": 11,
+   "title": "Hermione's Helping Hand",
+   "line": 1909
+  },
+  {
+   "chapter": 12,
+   "title": "Silver and Opals",
+   "line": 2074
+  },
+  {
+   "chapter": 13,
+   "title": "The Secret Riddle",
+   "line": 2270
+  },
+  {
+   "chapter": 14,
+   "title": "Felix Felicis",
+   "line": 2467
+  },
+  {
+   "chapter": 15,
+   "title": "The Unbreakable Vow",
+   "line": 2677
+  },
+  {
+   "chapter": 16,
+   "title": "A Very Frosty Christmas",
+   "line": 2877
+  },
+  {
+   "chapter": 17,
+   "title": "A Sluggish Memory",
+   "line": 3100
+  },
+  {
+   "chapter": 18,
+   "title": "Birthday Surprises",
+   "line": 3298
+  },
+  {
+   "chapter": 19,
+   "title": "Elf Tails",
+   "line": 3524
+  },
+  {
+   "chapter": 20,
+   "title": "Lord Voldemort's Request",
+   "line": 3728
+  },
+  {
+   "chapter": 21,
+   "title": "The Unknowable Room",
+   "line": 3930
+  },
+  {
+   "chapter": 22,
+   "title": "After the Burial",
+   "line": 4119
+  },
+  {
+   "chapter": 23,
+   "title": "Horcruxes",
+   "line": 4342
+  },
+  {
+   "chapter": 24,
+   "title": "Sectumsempra",
+   "line": 4503
+  },
+  {
+   "chapter": 25,
+   "title": "The Seer Overheard",
+   "line": 4656
+  },
+  {
+   "chapter": 26,
+   "title": "The Cave",
+   "line": 4863
+  },
+  {
+   "chapter": 27,
+   "title": "The Lightning-Struck Tower",
+   "line": 5083
+  },
+  {
+   "chapter": 28,
+   "title": "Flight of the Prince",
+   "line": 5240
+  },
+  {
+   "chapter": 29,
+   "title": "The Phoenix Lament",
+   "line": 5327
+  },
+  {
+   "chapter": 30,
+   "title": "The White Tomb",
+   "line": 5510
+  }
+ ],
+ "The Deathly Hallows": [
+  {
+   "chapter": 1,
+   "title": "The Dark Lord Ascending",
+   "line": 0
+  },
+  {
+   "chapter": 2,
+   "title": "In Memoriam",
+   "line": 106
+  },
+  {
+   "chapter": 3,
+   "title": "The Dursleys Departing",
+   "line": 161
+  },
+  {
+   "chapter": 4,
+   "title": "The Seven Potters",
+   "line": 281
+  },
+  {
+   "chapter": 5,
+   "title": "Fallen Warrior",
+   "line": 433
+  },
+  {
+   "chapter": 6,
+   "title": "The Ghoul in Pajamas",
+   "line": 689
+  },
+  {
+   "chapter": 7,
+   "title": "The Will of Albus Dumbledore",
+   "line": 916
+  },
+  {
+   "chapter": 8,
+   "title": "The Wedding",
+   "line": 1178
+  },
+  {
+   "chapter": 9,
+   "title": "A Place to Hide",
+   "line": 1384
+  },
+  {
+   "chapter": 10,
+   "title": "Kreacher's Tale",
+   "line": 1528
+  },
+  {
+   "chapter": 11,
+   "title": "The Bribe",
+   "line": 1716
+  },
+  {
+   "chapter": 12,
+   "title": "Magic is Might",
+   "line": 1914
+  },
+  {
+   "chapter": 13,
+   "title": "The Muggle-born Registration Commission",
+   "line": 2132
+  },
+  {
+   "chapter": 14,
+   "title": "The Thief",
+   "line": 2304
+  },
+  {
+   "chapter": 15,
+   "title": "The Goblin's Revenge",
+   "line": 2436
+  },
+  {
+   "chapter": 16,
+   "title": "Godric's Hollow",
+   "line": 2714
+  },
+  {
+   "chapter": 17,
+   "title": "Bathilda's Secret",
+   "line": 2842
+  },
+  {
+   "chapter": 18,
+   "title": "The Life and Lies of Albus Dumbledore",
+   "line": 3034
+  },
+  {
+   "chapter": 19,
+   "title": "The Silver Doe",
+   "line": 3103
+  },
+  {
+   "chapter": 20,
+   "title": "Xenophilius Lovegood",
+   "line": 3329
+  },
+  {
+   "chapter": 21,
+   "title": "The Tale of the Three Brothers",
+   "line": 3492
+  },
+  {
+   "chapter": 22,
+   "title": "The Deathly Hallows",
+   "line": 3494
+  },
+  {
+   "chapter": 23,
+   "title": "Malfoy Manor",
+   "line": 3856
+  },
+  {
+   "chapter": 24,
+   "title": "The Wandmaker",
+   "line": 4174
+  },
+  {
+   "chapter": 25,
+   "title": "Shell Cottage",
+   "line": 4425
+  },
+  {
+   "chapter": 26,
+   "title": "Gringotts",
+   "line": 4587
+  },
+  {
+   "chapter": 27,
+   "title": "The Final Hiding Place",
+   "line": 4771
+  },
+  {
+   "chapter": 28,
+   "title": "The Missing Mirror",
+   "line": 4833
+  },
+  {
+   "chapter": 29,
+   "title": "The Lost Diadem",
+   "line": 4980
+  },
+  {
+   "chapter": 30,
+   "title": "The Sacking of Severus Snape",
+   "line": 5142
+  },
+  {
+   "chapter": 31,
+   "title": "The Battle of Hogwarts",
+   "line": 5329
+  },
+  {
+   "chapter": 32,
+   "title": "The Elder Wand",
+   "line": 5602
+  },
+  {
+   "chapter": 33,
+   "title": "The Prince's Tale",
+   "line": 5769
+  },
+  {
+   "chapter": 34,
+   "title": "The Forest Again",
+   "line": 6120
+  },
+  {
+   "chapter": 35,
+   "title": "King's Cross",
+   "line": 6235
+  },
+  {
+   "chapter": 36,
+   "title": "The Flaw in the Plan",
+   "line": 6406
+  },
+  {
+   "chapter": 37,
+   "title": "Nineteen Years Later",
+   "line": 6588
+  }
+ ]
+}

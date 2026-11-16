@@ -1,5 +1,7 @@
 import sys
 import re
+import json
+from bisect import bisect_right
 from typing import List, Dict
 
 sys.path.insert(0, "/home/1100h19/a-search-of-hogwarts")
@@ -16,6 +18,23 @@ app = application
 
 books_data: Dict[str, List[str]] = OrderedDict()  # text that will be displayed to user
 search_data: Dict[str, List[str]] = OrderedDict()  # text that will be searched
+chapters_data: Dict[str, List[dict]] = {}  # chapter number, title and first line of each chapter, per book
+chapter_starts: Dict[str, List[int]] = {}  # first line of each chapter, per book (for bisecting)
+
+
+def get_chapter(book: str, line: int) -> str:
+    """
+    Return the chapter label (e.g. "Chapter 9: The Dark Mark") that the given line of a book belongs to.
+    Returns an empty string if the book has no chapter data or the line comes before the first chapter.
+    """
+    starts = chapter_starts.get(book)
+    if not starts:
+        return ""
+    idx = bisect_right(starts, line) - 1
+    if idx < 0:
+        return ""
+    chapter = chapters_data[book][idx]
+    return f"Chapter {chapter['chapter']}: {chapter['title']}"
 
 
 @application.route('/', methods=['GET'])
@@ -108,7 +127,7 @@ def get_search_results() -> Dict[str, str]:
                 if count >= to_skip:
                     prev_paragraph = books_data[book][i - 1] if i != 0 else ""
                     next_paragraph = books_data[book][i + 1] if i != len(books_data[book]) - 1 else ""
-                    result.append({ "text": f"{prev_paragraph}\n\n{books_data[book][i]}\n\n{next_paragraph}", "book": book})
+                    result.append({ "text": f"{prev_paragraph}\n\n{books_data[book][i]}\n\n{next_paragraph}", "book": book, "chapter": get_chapter(book, i)})
                     bold_text(result, search_words)
                 else:
                     count += 1
@@ -172,6 +191,13 @@ def startup() -> None:
             search_data[regex.search(book).group(1)] = [
                 paragraph.lower() for paragraph in text.split('\n')
             ]
+
+    chapters_file = DATA_PATH / "chapters.json"
+    if chapters_file.exists():
+        with open(chapters_file, encoding="utf8") as f:
+            for book, chapters in json.load(f).items():
+                chapters_data[book] = chapters
+                chapter_starts[book] = [chapter["line"] for chapter in chapters]
 
 
 startup()

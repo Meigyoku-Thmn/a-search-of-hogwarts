@@ -114,6 +114,11 @@ body {
   border-radius: 5px; /* 5px rounded corners */
 }
 
+/* highlight the matched search keyword (wrapped in <b> by the server) */
+.results .card b {
+  color: red;
+}
+
 .header {
   padding: 15px;
   margin: 0;
