@@ -23,7 +23,9 @@ import 'semantic-ui-css/components/segment.min.css';
 import './App.css';
 
 const placeholders = ["he greeted death...", "always...", "uranus...", "what is right...", "nitwit...", "expelliarmus...", "lumos..."];
-const API = "https://1100h19.pythonanywhere.com"
+const API = ["localhost", "127.0.0.1"].includes(window.location.hostname)
+  ? "http://localhost:5001"
+  : "https://1100h19.pythonanywhere.com";
 const checked = new Map(Object.entries({
   "The Philosopher's Stone": true,
   "The Chamber of Secrets": true,

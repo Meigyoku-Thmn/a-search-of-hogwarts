@@ -81,8 +81,8 @@ def get_search_results() -> Dict[str, str]:
     :param page (str): page number for infinite scsroll
     """
     data = request.json["data"]
-    with open(DATA_PATH / "analysis.txt", "a") as f:
-        f.write(data["search"] + "\n")
+    # with open(DATA_PATH / "analysis.txt", "a") as f:
+        # f.write(data["search"] + "\n")
     search_words = [cleanse(word) for word in data["search"].split() if word.lower() not in STOPWORDS]
     if not search_words or not all(search_words):
         return {
